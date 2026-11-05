@@ -1,1 +1,9 @@
 openai_key.txt
+
+.idea/
+
+__pycache__/
+
+.venv/
+
+.env

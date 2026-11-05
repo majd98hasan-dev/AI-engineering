@@ -1,0 +1,6 @@
+Model;response;time;prompt
+gemma4:e2b;The capital of Sweden is **Stockholm**.;11.51;What is the capital of Sweden?
+qwen2.5:0.5b;The capital of Sweden is Stockholm.;1.94;What is the capital of Sweden?
+Model;response;time;prompt
+gemma4:e2b;The capital of Sweden is **Stockholm**.;19.31;What is the capital of Sweden?
+qwen2.5:0.5b;The capital of Sweden is Stockholm.;1.66;What is the capital of Sweden?
